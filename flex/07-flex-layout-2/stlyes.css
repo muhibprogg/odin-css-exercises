@@ -40,3 +40,10 @@ body {
   text-decoration: none;
   font-size: 20px;
 }
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background-color: #eee;
+  color: blueviolet;
+}
