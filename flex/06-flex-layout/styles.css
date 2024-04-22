@@ -21,8 +21,26 @@ body {
 }
 
 .main img {
+  width: 80%;
+  max-width: 600px;
+}
+
+.main input {
   width: 70%;
   max-width: 600px;
+  font-size: 18px;
+  padding: 5px 10px;
+  border: 1px solid #c9c9c9;
+  border-radius: 333em;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border: none;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 0.3em;
+  color: #535353;
 }
 
 .header,
